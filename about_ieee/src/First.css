@@ -1,0 +1,13 @@
+div .top{
+    background-color: #f50057;
+  }
+  
+  div .gap1 {
+    bottom: 0px;
+    margin: 0px auto;
+    padding: 20px 50px;
+  }
+  div .top h1{
+    
+    margin: auto 100px;
+  }

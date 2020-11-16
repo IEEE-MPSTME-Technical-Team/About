@@ -21,8 +21,8 @@ const About = () => {
             
             <div className=" grid1 section white"><GridsC /></div>
             <div className="gap2">
-                <p className="center" data-aos="zoom-in">Something about our team</p>
-                <p className="container center" data-aos="zoom-in">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:</p>
+                <p className="center" data-aos="zoom-in"><b>Something about our team</b></p>
+                <p className="container center" data-aos="zoom-in">We offer technology as a solution, the best there is.</p>
             </div>
             <Parallax2 />
 

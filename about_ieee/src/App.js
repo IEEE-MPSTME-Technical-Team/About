@@ -19,11 +19,11 @@ class App extends Component{
        <div className=" slides title">
           <h2>Technical Team</h2>
           <Carousel />
-          <h2>Corporate Relations Team</h2>
-          <Carousel />
           <h2>Public Relations Team</h2>
           <Carousel />
           <h2>Digital Creatives Team</h2>
+          <Carousel />
+          <h2>Corporate Relations Team</h2>
           <Carousel />
        </div>
       </div>

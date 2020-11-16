@@ -1,5 +1,6 @@
 div .top{
     background-color: #1f6f8b;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   }
   
   div .gap1 {
@@ -8,6 +9,5 @@ div .top{
     padding: 20px 50px;
   }
   div .top h1{
-    
     margin: auto 100px;
   }

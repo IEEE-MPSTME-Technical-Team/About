@@ -48,7 +48,7 @@ We are happy to have someone with an aesthetic vision like hers on our team!</p>
                     <img src={hem} alt="" class="responsive-img materialboxed" />
                 </div>
                 <div class="col s12 l6 left-align push-l1 offset-l1" data-aos="fade-up-left">
-                    <h2 class="indigo-text text-darken-4">Hem Thakkar</h2>
+                    <h2 class="indigo-text text-darken-4">Hem Thakar</h2>
                     <p>Hem personifies grit and gumption as he navigates the industrial ties as our Corporate Relations Head.
                     With great elan and chutzpah he offers us a peek into the tech world.
 Besides being a Marvel fan he’s also a bibliophile and we are glad to have a person with such drive and conviction on our team.</p>
